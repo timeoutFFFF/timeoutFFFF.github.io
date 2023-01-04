@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "KPC"
   avatar           : "/assets/images/01_trishul.jpeg"
-  bio              : "I am interested in **security research**."
+  bio              : "**Security Research**."
   location         : "Here"
   email            :
   links:
@@ -121,7 +121,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/timeoutFFFF"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -137,7 +137,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/timeoutFFFF"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
