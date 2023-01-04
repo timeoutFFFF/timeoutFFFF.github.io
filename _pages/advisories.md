@@ -1,9 +1,9 @@
 ---
 title:  "Advisories"
 layout: archive
-permalink: /Advisories/
+permalink: /advisories/
 author_profile: true
-comments: true
+comments: false
 ---
 
 Advisories
