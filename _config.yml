@@ -103,8 +103,8 @@ analytics:
 author:
   name             : "KPC"
   avatar           : "/assets/images/01_trishul.jpeg"
-  bio              : "**Security Research**."
-  #location         : "Here"
+  bio              : "**Security Researcher**"
+  #location         : "Canada"
   email            :
   links:
     - label: "Email"
