@@ -6,7 +6,6 @@ author_profile: true
 comments: false
 ---
 
-Advisories
 
 * CVE-2021-34536: [Microsoft Windows storport Integer Overflow Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-21-967/)
 * CVE-2021-35234: [SolarWinds Network Performance Monitor TextToSpeech Exposed Dangerous Function Privilege Escalation Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-21-1596/)
