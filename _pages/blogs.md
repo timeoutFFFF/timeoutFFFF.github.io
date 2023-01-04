@@ -1,8 +1,8 @@
 ---
 title:  "Blogs"
 layout: archive
-permalink: /Blogs/
+permalink: /blogs/
 author_profile: true
-comments: true
+comments: false
 ---
 
