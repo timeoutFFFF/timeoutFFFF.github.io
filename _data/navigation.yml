@@ -2,7 +2,7 @@
 main:
   - title: "Blogs"
     url: /Blogs/
-  - title: "advisories"
+  - title: "Advisories"
     url: /Advisories/
   # - title: "Sample Collections"
   #   url: /collection-archive/
