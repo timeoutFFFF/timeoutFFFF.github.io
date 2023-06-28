@@ -6,9 +6,12 @@ author_profile: true
 comments: false
 ---
 
+
 <ul>
 {% for post in site.posts %}
-<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-<p>{{ post.content | strip_html | truncatewords: 20 }}</p>
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+    <p>{{ post.excerpt }}</p>
+  </li>
 {% endfor %}
 </ul>
