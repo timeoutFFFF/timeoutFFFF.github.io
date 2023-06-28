@@ -7,17 +7,8 @@ comments: false
 ---
 
 <ul>
-  {% for post in site.posts %}
-    {% unless post.next %}
-      <font color="#778899"><h2>{{ post.date | date: '%Y %b' }}</h2></font>
-    {% else %}
-      {% capture year %}{{ post.date | date: '%Y %b' }}{% endcapture %}
-      {% capture nyear %}{{ post.next.date | date: '%Y %b' }}{% endcapture %}
-      {% if year != nyear %}
-        <font color="#778899"><h2>{{ post.date | date: '%Y %b' }}</h2></font>
-      {% endif %}
-
-    {% endunless %}
-   {% include archive-single.html %}
-  {% endfor %}
+{% for post in site.posts %}
+<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+<p>{{ post.content | strip_html | truncatewords: 20 }}</p>
+{% endfor %}
 </ul>
