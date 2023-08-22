@@ -8,7 +8,7 @@ comments: false
 
 #### 2023
 * CVE-2023-32664: [Foxit Reader checkThisBox type confusion vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2023-1795)
-* CVE-2023-33866:[Foxit Reader Field OnBlur event use-after-free vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2023-1757)
+* CVE-2023-33866: [Foxit Reader Field OnBlur event use-after-free vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2023-1757)
 * CVE-2023-27379: [Foxit Reader Field Calculate event use-after-free vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2023-1756)
 
 #### 2022
