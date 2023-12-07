@@ -7,6 +7,14 @@ comments: false
 ---
 
 #### 2023
+
+* CVE-2023-44372: [Adobe Acrobat Reader U3D page event use-after-free vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2023-1842)
+* CVE-2023-41257: [Foxit Reader field value property type confusion vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2023-1838)
+* CVE-2023-32616: [Foxit Reader 3D Annot use-after-free vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2023-1837)
+* CVE-2023-35985: [Foxit Reader Javascript exportDataObject HTA file creation vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2023-1834)
+* CVE-2023-40194: [Foxit Reader Javascript exportDataObject arbitrary file creation vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2023-1833)
+* CVE-2023-39542: [Foxit Reader Javascript saveAs arbitrary file creation vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2023-1832)
+* CVE-2023-38573: [Foxit Reader signature field OnBlur event use-after-free vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2023-1839)
 * CVE-2023-32664: [Foxit Reader checkThisBox type confusion vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2023-1795)
 * CVE-2023-33866: [Foxit Reader Field OnBlur event use-after-free vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2023-1757)
 * CVE-2023-27379: [Foxit Reader Field Calculate event use-after-free vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2023-1756)
