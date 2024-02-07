@@ -7,7 +7,16 @@ comments: false
 ---
 
 #### 2023
-
+* TALOS-2023-1859: [TP-Link ER7206 Omada Gigabit VPN Router uhttpd web filtering Command injection Vulnerability
+](https://talosintelligence.com/vulnerability_reports/TALOS-2023-1859)
+* CVE-2023-42664: [TP-Link ER7206 Omada Gigabit VPN Router uhttpd PPTP global config Command injection Vulnerability](https://talosintelligence.com/vulnerability_reports/TALOS-2023-1856)
+* CVE-2023-47617: [TP-Link ER7206 Omada Gigabit VPN Router uhttpd web group command injection vulnerability
+](https://talosintelligence.com/vulnerability_reports/TALOS-2023-1858)
+* CVE-2023-47167: [TP-Link ER7206 Omada Gigabit VPN Router uhttpd GRE command injection vulnerability](https://talosintelligence.com/vulnerability_reports/TALOS-2023-1855)
+* CVE-2023-43482: [TP-Link ER7206 Omada Gigabit VPN Router uhttpd freeStrategy Command injection Vulnerability](https://talosintelligence.com/vulnerability_reports/TALOS-2023-1850)
+* CVE-2023-36498: [TP-Link ER7206 Omada Gigabit VPN Router uhttpd PPTP client Command injection Vulnerability](https://talosintelligence.com/vulnerability_reports/TALOS-2023-1853)
+* CVE-2023-46683: [TP-Link ER7206 Omada Gigabit VPN Router uhttpd Wireguard VPN command injection vulnerability](https://talosintelligence.com/vulnerability_reports/TALOS-2023-1857)
+* CVE-2023-47209: [TP-Link ER7206 Omada Gigabit VPN Router uhttpd ipsec command injection vulnerability](https://talosintelligence.com/vulnerability_reports/TALOS-2023-1854)
 * CVE-2023-44372: [Adobe Acrobat Reader U3D page event use-after-free vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2023-1842)
 * CVE-2023-41257: [Foxit Reader field value property type confusion vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2023-1838)
 * CVE-2023-32616: [Foxit Reader 3D Annot use-after-free vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2023-1837)
