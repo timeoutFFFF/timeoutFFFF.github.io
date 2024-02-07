@@ -7,7 +7,7 @@ comments: false
 ---
 
 #### 2023
-* TALOS-2023-1859: [TP-Link ER7206 Omada Gigabit VPN Router uhttpd web filtering Command injection Vulnerability
+* CVE-2023-47618: [TP-Link ER7206 Omada Gigabit VPN Router uhttpd web filtering Command injection Vulnerability
 ](https://talosintelligence.com/vulnerability_reports/TALOS-2023-1859)
 * CVE-2023-42664: [TP-Link ER7206 Omada Gigabit VPN Router uhttpd PPTP global config Command injection Vulnerability](https://talosintelligence.com/vulnerability_reports/TALOS-2023-1856)
 * CVE-2023-47617: [TP-Link ER7206 Omada Gigabit VPN Router uhttpd web group command injection vulnerability
