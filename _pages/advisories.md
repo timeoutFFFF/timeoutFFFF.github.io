@@ -5,6 +5,30 @@ permalink: /advisories/
 author_profile: true
 comments: false
 ---
+#### 2024
+* CVE-2024-20735: [Adobe Acrobat Reader Font CPAL numColorRecords out-of-bounds read vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2023-1905)
+* CVE-2024-20729: [Adobe Acrobat Reader Annot3D object zoom event use-after-free vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2023-1890)
+* CVE-2024-20747: [Adobe Acrobat Reader Font CharStrings INDEX out-of-bounds read vulnerability
+](https://www.talosintelligence.com/vulnerability_reports/TALOS-2023-1908)
+* CVE-2024-20730: [Adobe Acrobat Reader Font CPAL integer overflow vulnerability
+](https://www.talosintelligence.com/vulnerability_reports/TALOS-2023-1906)
+* CVE-2024-20731: [Adobe Acrobat Reader FileAttachment PDAnnot destroy use-after-free vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2023-1901)
+* CVE-2024-20749: [Adobe Acrobat Reader Font CharStrings CharStringsOffset out-of-bounds read vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2023-1910)
+* CVE-2024-20748: [Adobe Acrobat Reader Font avar SegmentMaps out-of-bounds read vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2023-1909)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #### 2023
 * CVE-2023-47618: [TP-Link ER7206 Omada Gigabit VPN Router uhttpd web filtering Command injection Vulnerability
