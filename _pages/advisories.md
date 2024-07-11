@@ -6,6 +6,13 @@ author_profile: true
 comments: false
 ---
 #### 2024
+* CVE-2024-29072: [Foxit Reader Updater improper certificate validation privilege escalation vulnerability](https://talosintelligence.com/vulnerability_reports/TALOS-2024-1989)
+* CVE-2024-25938: [Foxit Reader Barcode widget Calculate event use-after-free vulnerability
+](https://talosintelligence.com/vulnerability_reports/TALOS-2024-1958)
+* CVE-2024-25575: [Foxit Reader Lock object fields property type confusion vulnerability
+](https://talosintelligence.com/vulnerability_reports/TALOS-2024-1963)
+* CVE-2024-25648: [Foxit Reader ComboBox widget Format event use-after-free vulnerability
+](https://talosintelligence.com/vulnerability_reports/TALOS-2024-1959)
 * CVE-2024-30312: [Adobe Acrobat Reader Font CPAL numColorRecords out-of-bounds read vulnerability](https://talosintelligence.com/vulnerability_reports/TALOS-2024-1952)
 * CVE-2024-30311: [Adobe Acrobat Reader Font gvar GlyphVariationData out-of-bounds read vulnerability](https://talosintelligence.com/vulnerability_reports/TALOS-2024-1946)
 * CVE-2024-20735: [Adobe Acrobat Reader Font CPAL numColorRecords out-of-bounds read vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2023-1905)
