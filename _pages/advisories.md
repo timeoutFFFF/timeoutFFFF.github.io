@@ -6,6 +6,8 @@ author_profile: true
 comments: false
 ---
 #### 2024
+* CVE-2024-30312: [Adobe Acrobat Reader Font CPAL numColorRecords out-of-bounds read vulnerability](https://talosintelligence.com/vulnerability_reports/TALOS-2024-1952)
+* CVE-2024-30311: [Adobe Acrobat Reader Font gvar GlyphVariationData out-of-bounds read vulnerability](https://talosintelligence.com/vulnerability_reports/TALOS-2024-1946)
 * CVE-2024-20735: [Adobe Acrobat Reader Font CPAL numColorRecords out-of-bounds read vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2023-1905)
 * CVE-2024-20729: [Adobe Acrobat Reader Annot3D object zoom event use-after-free vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2023-1890)
 * CVE-2024-20747: [Adobe Acrobat Reader Font CharStrings INDEX out-of-bounds read vulnerability
