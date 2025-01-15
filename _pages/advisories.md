@@ -6,6 +6,19 @@ author_profile: true
 comments: false
 ---
 #### 2024
+* CVE-2024-41922: [Veertu Anka Build registry log files directory traversal vulnerability](https://talosintelligence.com/vulnerability_reports/TALOS-2024-2061)
+* CVE-2024-39755: [Veertu Anka Build node agent update privilege escalation vulnerability](https://talosintelligence.com/vulnerability_reports/TALOS-2024-2060)
+* CVE-2024-41163: [Veertu Anka Build registry archive files directory traversal vulnerability](https://talosintelligence.com/vulnerability_reports/TALOS-2024-2059)
+* CVE-2024-47810: [Foxit Reader 3D Page Object Use-After-Free Vulnerability](https://talosintelligence.com/vulnerability_reports/TALOS-2024-2094)
+* CVE-2024-49576: [Foxit Reader Checkbox Calculate CBF_Widget Use-After-Free Vulnerability](https://talosintelligence.com/vulnerability_reports/TALOS-2024-2093)
+* CVE-2024-49534: [Adobe Acrobat Reader Font Program Function Definition Out-Of-Bounds Read Vulnerability](https://talosintelligence.com/vulnerability_reports/TALOS-2024-2076)
+* CVE-2024-49532: [Adobe Acrobat Reader Font gvar per-tuple-variation-table Out-Of-Bounds Read Vulnerability](https://talosintelligence.com/vulnerability_reports/TALOS-2024-2064)
+* CVE-2024-49533: [Adobe Acrobat Reader Font Private Point Numbers Out-Of-Bounds Read Vulnerability](https://talosintelligence.com/vulnerability_reports/TALOS-2024-2070)
+* CVE-2024-39420: [Adobe Acrobat Reader Annotation Object Page Race Condition Vulnerability](https://talosintelligence.com/vulnerability_reports/TALOS-2024-2011)
+* CVE-2024-41832: [Adobe Acrobat Reader Font gvar TupleVariation Data Out-Of-Bounds Read Vulnerability](https://talosintelligence.com/vulnerability_reports/TALOS-2024-2002)
+* CVE-2024-41835: [Adobe Acrobat Reader Font Packed Point Numbers Out-Of-Bounds Read Vulnerability](https://talosintelligence.com/vulnerability_reports/TALOS-2024-2003)
+* CVE-2024-41830: [Adobe Acrobat Reader AV3DVirtAnnot Object Format Event Use-After-Free Vulnerability](https://talosintelligence.com/vulnerability_reports/TALOS-2024-2009)
+* CVE-2024-28888: [Foxit Reader checkbox Calculate use-after-free vulnerability](https://talosintelligence.com/vulnerability_reports/TALOS-2024-1967)
 * CVE-2024-29072: [Foxit Reader Updater improper certificate validation privilege escalation vulnerability](https://talosintelligence.com/vulnerability_reports/TALOS-2024-1989)
 * CVE-2024-25938: [Foxit Reader Barcode widget Calculate event use-after-free vulnerability
 ](https://talosintelligence.com/vulnerability_reports/TALOS-2024-1958)
