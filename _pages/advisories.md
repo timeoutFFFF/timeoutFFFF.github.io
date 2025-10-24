@@ -5,7 +5,25 @@ permalink: /advisories/
 author_profile: true
 comments: false
 ---
+
+#### 2025
+* CVE-2025-31359: [Parallels Desktop prl_packer_inplace PVMP Unpack Directory Traversal Privilege Escalation](https://talosintelligence.com/vulnerability_reports/TALOS-2025-2160)
+* CVE-2025-32451: [Foxit Reader Signature Uninitialized Pointer Vulnerability](https://talosintelligence.com/vulnerability_reports/TALOS-2025-2202)
+* CVE-2025-47152: [PDF-XChange Editor EMF File EMR_EXTCREATEFONTINDIRECTW Facename Out-Of-Bounds Read Vulnerability](https://talosintelligence.com/vulnerability_reports/TALOS-2025-2203)
+* CVE-2025-27931: [PDF-XChange Editor EMF File EMR_POLYDRAW16 PT_BEZIERTO Out-Of-Bounds Read Vulnerability](https://talosintelligence.com/vulnerability_reports/TALOS-2025-2171)
+* CVE-2025-20001: [High-Logic FontCreator GSUB subtable Out-Of-Bounds Read Vulnerability](https://talosintelligence.com/vulnerability_reports/TALOS-2025-2157)
+* CVE-2025-54257: [Adobe Acrobat Reader Page Property Use-After-Free Vulnerability](https://talosintelligence.com/vulnerability_reports/TALOS-2025-2222)
+* CVE-2025-43576: [Adobe Acrobat Reader Annotation Destroy Use-After-Free Vulnerability](https://talosintelligence.com/vulnerability_reports/TALOS-2025-2170)
+* CVE-2025-43578: [Adobe Acrobat Reader Font CFF2 PrivateDict vsindex Out-Of-Bounds Read Vulnerability](https://talosintelligence.com/vulnerability_reports/TALOS-2025-2159)
+* CVE-2025-27164: [Adobe Acrobat Reader Font numGlyphs Out-Of-Bounds Read Vulnerability](https://talosintelligence.com/vulnerability_reports/TALOS-2025-2136)
+* CVE-2025-27158: [Adobe Acrobat Reader Font VariationStore itemVariationDataCount Uninitialized Pointer Vulnerability](https://talosintelligence.com/vulnerability_reports/TALOS-2025-2135)
+* CVE-2025-27163: [Adobe Acrobat Reader Font hMetric Out-Of-Bounds Read Vulnerability](https://talosintelligence.com/vulnerability_reports/TALOS-2025-2134)
+
 #### 2024
+
+* CVE-2024-36486: [Parallels Desktop prl_vmarchiver Unarchive Hard Link Privilege Escalation](https://talosintelligence.com/vulnerability_reports/TALOS-2024-2126)
+* CVE-2024-52561:[Parallels Desktop prl_disp_service Snapshots SymLink Change Ownership Privilege Escalation](https://talosintelligence.com/vulnerability_reports/TALOS-2024-2123)
+* CVE-2024-54189: [Parallels Desktop prl_disp_service Snapshots.xml Hard Link Privilege Escalation](https://talosintelligence.com/vulnerability_reports/TALOS-2024-2124)
 * CVE-2024-41922: [Veertu Anka Build registry log files directory traversal vulnerability](https://talosintelligence.com/vulnerability_reports/TALOS-2024-2061)
 * CVE-2024-39755: [Veertu Anka Build node agent update privilege escalation vulnerability](https://talosintelligence.com/vulnerability_reports/TALOS-2024-2060)
 * CVE-2024-41163: [Veertu Anka Build registry archive files directory traversal vulnerability](https://talosintelligence.com/vulnerability_reports/TALOS-2024-2059)
