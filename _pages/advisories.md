@@ -5,10 +5,31 @@ permalink: /advisories/
 author_profile: true
 comments: false
 ---
+#### 2026
+* CVE-2026-50475: [Microsoft Windows NETIO.sys NsipGetAllInformationProviderParameters Information Disclosure Vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2026-2443)
+* CVE-2026-49177: [Microsoft Windows TCPIP.SYS IppQualifyAddresses Out-of-Bounds Read Vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2026-2427)
+* CVE-2026-57256 : [Foxit Foxit Reader Javascript checkbox CBF_Widget code execution vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2026-2420)
+* CVE-2026-3779: [Foxit Reader List Box Calculate Array Use-After-Free Vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2026-2365)
+* CVE-2026-34632: [Adobe Photoshop Installation Privilege Escalation Vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2025-2274)
+
 
 #### 2025
+* CVE-2025-68623: [Microsoft DirectX End-User Runtime Web Installer Privilege Escalation Vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2025-2293)
+* CVE-2025-58074: [Norton Secure VPN Installation Insecure Operation On Junction Privilege Escalation Vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2025-2276)
 * CVE-2025-31359: [Parallels Desktop prl_packer_inplace PVMP Unpack Directory Traversal Privilege Escalation](https://talosintelligence.com/vulnerability_reports/TALOS-2025-2160)
+* CVE-2025-61973: [Epic Games Store Installation DLL Hijacking Privilege Escalation Vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2025-2279)
+* CVE-2025-64301: [Canva Affinity EMF File EMR_CREATEDIBPATTERNBRUSHPT DIBHeaderInfo HeaderSize Out-Of-Bounds Write Vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2025-2310)
+* CVE-2025-66342: [Canva Affinity EMF File EMR_FRAMERGN Type Confusion Vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2025-2297)
+* CVE-2025-65119: [Canva Affinity EMF File EMR_POLYGON Count Out-Of-Bounds Read Vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2025-2320)
+* CVE-2025-47873: [Canva Affinity EMF File EMR_POLYBEZIER16 Count Out-Of-Bounds Read Vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2025-2316)
+* CVE-2025-66617: [Canva Affinity EMF File EMR_POLYPOLYLINE16 Count Out-Of-Bounds Read Vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2025-2315)
+* CVE-2025-66503: [Canva Affinity EMF File EMR_POLYBEZIERTO Count Out-Of-Bounds Read Vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2025-2318)
+* CVE-2025-58427: [Canva Affinity EMF File EMR_EXTTEXTOUTW offDx Out-Of-Bounds Read Vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2025-2314)
+* CVE-2025-59488: [Foxit Reader Text Widget Format Use-After-Free Vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2025-2278)
+* CVE-2025-58085: [Foxit Reader Barcode Calculate CPDF_FormField Use-After-Free Vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2025-2277)
+* CVE-2025-57779: [Foxit PDF Editor Installation Uncontrolled Search Path Privilege Escalation Vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2025-2275)
 * CVE-2025-32451: [Foxit Reader Signature Uninitialized Pointer Vulnerability](https://talosintelligence.com/vulnerability_reports/TALOS-2025-2202)
+* CVE-2025-58113: [PDF-XChange Editor EMF File EMR_SMALLTEXTOUT Out-Of-Bounds Read Vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2025-2280)
 * CVE-2025-47152: [PDF-XChange Editor EMF File EMR_EXTCREATEFONTINDIRECTW Facename Out-Of-Bounds Read Vulnerability](https://talosintelligence.com/vulnerability_reports/TALOS-2025-2203)
 * CVE-2025-27931: [PDF-XChange Editor EMF File EMR_POLYDRAW16 PT_BEZIERTO Out-Of-Bounds Read Vulnerability](https://talosintelligence.com/vulnerability_reports/TALOS-2025-2171)
 * CVE-2025-20001: [High-Logic FontCreator GSUB subtable Out-Of-Bounds Read Vulnerability](https://talosintelligence.com/vulnerability_reports/TALOS-2025-2157)
