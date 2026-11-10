@@ -8,6 +8,7 @@ comments: false
 #### 2026
 * CVE-2026-50475: [Microsoft Windows NETIO.sys NsipGetAllInformationProviderParameters Information Disclosure Vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2026-2443)
 * CVE-2026-49177: [Microsoft Windows TCPIP.SYS IppQualifyAddresses Out-of-Bounds Read Vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2026-2427)
+* CVE-2026-91799: [Foxit Reader Array resetForm Use-After-Free Vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2026-2446)
 * CVE-2026-57256 : [Foxit Foxit Reader Javascript checkbox CBF_Widget code execution vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2026-2420)
 * CVE-2026-3779: [Foxit Reader List Box Calculate Array Use-After-Free Vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2026-2365)
 * CVE-2026-34632: [Adobe Photoshop Installation Privilege Escalation Vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2025-2274)
