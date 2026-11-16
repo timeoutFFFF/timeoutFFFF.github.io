@@ -6,6 +6,8 @@ author_profile: true
 comments: false
 ---
 #### 2026
+* CVE-2026-28731: [VideoLan VLC Interplay MVE File Uninitialized Variable Memory Corruption Vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2026-2372)
+* CVE-2026-32789: [VideoLan VLC NUV File keyframe Out-Of-Bounds Read Vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2026-2416)
 * CVE-2026-50475: [Microsoft Windows NETIO.sys NsipGetAllInformationProviderParameters Information Disclosure Vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2026-2443)
 * CVE-2026-49177: [Microsoft Windows TCPIP.SYS IppQualifyAddresses Out-of-Bounds Read Vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2026-2427)
 * CVE-2026-91799: [Foxit Reader Array resetForm Use-After-Free Vulnerability](https://www.talosintelligence.com/vulnerability_reports/TALOS-2026-2446)
